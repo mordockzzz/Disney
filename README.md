@@ -1,1 +1,3 @@
 # Disney
+
+github-pages: true
